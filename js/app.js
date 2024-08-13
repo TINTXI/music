@@ -1,4 +1,4 @@
-// amardeep kesharwani
+// Tinworld
 const playerWindow = document.getElementById("players");
 const audio = document.getElementById("audio");
 const name = document.getElementById("name");
