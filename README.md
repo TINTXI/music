@@ -2,5 +2,6 @@
 Reproductor simple de musica
 
 ## View App
-[https://TINTXI.github.io/music/](https://TINTXI.github.io/music/.)
+[https://tintxi.github.io/music/]
+(https://tintxi.github.io/music/.)
 
