@@ -1,2 +1,6 @@
+# music.github.io
+Reproductor simple de musica
 
-https://amardeepkesharwani.github.io/solo-music/
+## View App
+[https://TINTXI.github.io/music/](https://TINTXI.github.io/music/.)
+
